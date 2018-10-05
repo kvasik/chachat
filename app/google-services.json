@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "448788571516",
+    "firebase_url": "https://chachat-b7ced.firebaseio.com",
+    "project_id": "chachat-b7ced",
+    "storage_bucket": "chachat-b7ced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448788571516:android:7fcc29ed9863cbe9",
+        "android_client_info": {
+          "package_name": "aliev.vlad.chachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448788571516-o3242a3ggrhscb40264h1n10b2pqnqvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC283LlO09qsJkr_4LO6fjNnqjR-YSeBtQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
